@@ -23,7 +23,7 @@ The drone is built using a modular architecture consisting of:
 ## 🧩 Components Used
 
 ### 🔹 Frame & Structure
-- S500 Carbon Fiber Quadcopter Frame (X-configuration)
+- S450 and S500-Carbon Fiber Quadcopter Frame (X-configuration)
 - 500 mm wheelbase
 - Carbon fiber / reinforced composite structure
 
@@ -133,16 +133,15 @@ According to the system design (Page 8 of report), the architecture separates:
 ---
 
 ## 📸 Build Images
-(Add your images here)
-- Frame assembly
-- Wiring setup
-- Sensor mounting
-- Final drone
+<img width="400" height="400" alt="image" src="https://github.com/user-attachments/assets/ec48a5ee-d504-46dc-9d44-a6ce746bfe52" />
+<img width="400" height="400" alt="image" src="https://github.com/user-attachments/assets/69683ed3-967d-41a9-82da-3452fa7cffb5" />
 
 ---
 
 ## 🎥 Demo
-(Add YouTube link)
+https://youtu.be/sijLQYWzi_M
+
+https://youtu.be/pKTd_dI6Ax4?si=di8eYyunUm_bwj3m
 
 ---
 
@@ -154,7 +153,4 @@ According to the system design (Page 8 of report), the architecture separates:
 - Flight testing support
 - System reliability improvements
 
----
 
-## 📎 Reference
-Full project report:
