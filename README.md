@@ -23,7 +23,7 @@ The drone is built using a modular architecture consisting of:
 ## 🧩 Components Used
 
 ### 🔹 Frame & Structure
-- S450 Quadcopter Frame (X-configuration)
+- S500 Carbon Fiber Quadcopter Frame (X-configuration)
 - 500 mm wheelbase
 - Carbon fiber / reinforced composite structure
 
